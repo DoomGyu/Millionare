@@ -100,7 +100,7 @@ namespace Millionare
             bool isTrue = answer != 1;
             if (isTrue)
             {
-                Console.WriteLine("Ну ты и Даня. Ты знаешь CS-GO АШ на 0%");
+                Console.WriteLine("Ну ты и Даня. Ты знаешь CS-GO");
                 return;
             }
             Console.WriteLine(question1);
@@ -113,7 +113,7 @@ namespace Millionare
             isTrue = answer != 1;
             if (isTrue)
             {
-                Console.WriteLine("Ты хоть знаеш что на В закупатца можно мм? Ты знаешь CS-GO на 6.67%");
+                Console.WriteLine("Ты хоть знаеш что на В закупатца можно мм?");
                 return;
             }
             Console.WriteLine(question2);
@@ -126,7 +126,7 @@ namespace Millionare
             isTrue = answer != 3;
             if (isTrue)
             {
-                Console.WriteLine("Ты хоть на цены смотриш при покупке, или фигаришь на угат? Ты знаешь CS-GO на 13.33%");
+                Console.WriteLine("Ты хоть на цены смотриш при покупке, или фигаришь на угат?");
                 return;
             }
             Console.WriteLine(question3);
@@ -139,7 +139,7 @@ namespace Millionare
             isTrue = answer != 2;
             if (isTrue)
             {
-                Console.WriteLine("Про 700$ ты знаеш а про точность не надо, надо зажимать. Ты знаешь CS-GO на 20%");
+                Console.WriteLine("Про 700$ ты знаеш а про точность не надо, надо зажимать.");
                 return;
             }
             Console.WriteLine(question4);
@@ -152,7 +152,7 @@ namespace Millionare
             isTrue = answer != 4;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 26.67%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question5);
@@ -165,7 +165,7 @@ namespace Millionare
             isTrue = answer != 2;
             if (isTrue)
             {
-                Console.WriteLine("Ты знаеш что такое Dual Berettas? Ты знаешь CS-GO на 33.33%");
+                Console.WriteLine("Ты знаеш что такое Dual Berettas?");
                 return;
             }
             Console.WriteLine(question6);
@@ -178,7 +178,7 @@ namespace Millionare
             isTrue = answer != 1;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 40%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question7);
@@ -191,7 +191,7 @@ namespace Millionare
             isTrue = answer != 1;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 46.67%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question8);
@@ -204,7 +204,7 @@ namespace Millionare
             isTrue = answer != 4;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 53.33%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question9);
@@ -217,7 +217,7 @@ namespace Millionare
             isTrue = answer != 1;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 60%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question10);
@@ -230,7 +230,7 @@ namespace Millionare
             isTrue = answer != 3;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 66.67%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question11);
@@ -243,7 +243,7 @@ namespace Millionare
             isTrue = answer != 4;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 73.33%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question12);
@@ -256,7 +256,7 @@ namespace Millionare
             isTrue = answer != 1;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 80%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question13);
@@ -269,7 +269,7 @@ namespace Millionare
             isTrue = answer != 2;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 86.67%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
             Console.WriteLine(question14);
@@ -282,10 +282,10 @@ namespace Millionare
             isTrue = answer != 4;
             if (isTrue)
             {
-                Console.WriteLine("Ты неудачник Ты знаешь CS-GO на 93.33%");
+                Console.WriteLine("Ты неудачник");
                 return;
             }
-            Console.WriteLine("You win Ты знаешь CS-GO на 100%");
+            Console.WriteLine("You win");
 
         }
     }
