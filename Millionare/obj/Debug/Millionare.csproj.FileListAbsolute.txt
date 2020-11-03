@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Millionare\Millionare\bin\Debug\Millionare.exe.config
+C:\Users\User\source\repos\Millionare\Millionare\bin\Debug\Millionare.exe
+C:\Users\User\source\repos\Millionare\Millionare\bin\Debug\Millionare.pdb
+C:\Users\User\source\repos\Millionare\Millionare\obj\Debug\Millionare.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Millionare\Millionare\obj\Debug\Millionare.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Millionare\Millionare\obj\Debug\Millionare.exe
+C:\Users\User\source\repos\Millionare\Millionare\obj\Debug\Millionare.pdb
